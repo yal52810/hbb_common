@@ -101,7 +101,11 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["tcp.sealosbja.site:47649"];
+<<<<<<< HEAD
 pub const RS_PUB_KEY: &str = "KkKzrC1qcuFVp1Kn7QSh21lqfac5ydszPp9oiMqmOnQ";
+=======
+pub const RS_PUB_KEY: &str = "KkKzrC1qcuFVp1Kn7QSh21lqfac5ydszPp9oiMqmOnQ=";
+>>>>>>> 18710928e46022facbf5855b3e304dd9e8bb4ac3
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
